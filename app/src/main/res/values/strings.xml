@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Resume</string>
+    <string name="please_enter_username">Please enter username</string>
+    <string name="generate">Generate</string>
+    <string name="no_internet_connection_message">Make sure you have an active data connection!</string>
+    <string name="open_in_browser">Open in browser</string>
+</resources>

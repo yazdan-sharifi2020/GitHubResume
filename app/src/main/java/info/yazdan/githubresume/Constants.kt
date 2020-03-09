@@ -1,0 +1,3 @@
+package info.yazdan.githubresume
+
+const val API_BASE_URL = "https://api.github.com/"
